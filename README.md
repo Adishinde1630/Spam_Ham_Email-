@@ -37,11 +37,3 @@ jupyter notebook "spamham (1).ipynb"
 - Train classification models (e.g., Logistic Regression, Random Forest, SVM).
 - Evaluate using accuracy, precision, recall, F1-score, and confusion matrix.
 
-## Notes
-
-- If you plan to push this repository to GitHub, ensure you remove any sensitive data (API keys, secrets, or private datasets) before pushing.
-- Adapt the notebook to use a train/test split or cross-validation for robust evaluation.
-
-## Contact
-
-If you want me to push these files to your GitHub repo, provide the repository URL or set an `origin` remote in this folder. I can then push the commit for you.
